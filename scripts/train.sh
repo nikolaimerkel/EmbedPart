@@ -1,0 +1,6 @@
+python -m training.train --mode puregpu --model_name graphsage --dataset ogbn-arxiv --batch_size 8192 --hidden_dims 64 --num_layers 2 --epochs 101 -fanout 25 10 --no_checkpoint yes
+python -m training.train --mode puregpu --model_name graphsage --dataset ogbn-products --batch_size 8192 --hidden_dims 64 --num_layers 2 --epochs 101 -fanout 25 10 --no_checkpoint yes
+python -m training.train --mode puregpu --model_name graphsage --dataset reddit --batch_size 8192 --hidden_dims 64 --num_layers 2 --epochs 101 -fanout 25 10 --no_checkpoint yes
+python -m training.train --mode puregpu --model_name graphsage --dataset ogbn-arxiv --batch_size 8192 --hidden_dims 64 --num_layers 3 --epochs 101 -fanout 15 10 5 --no_checkpoint yes
+python -m training.train --mode puregpu --model_name graphsage --dataset ogbn-products --batch_size 8192 --hidden_dims 64 --num_layers 3 --epochs 101 -fanout 15 10 5 --no_checkpoint yes
+python -m training.train --mode puregpu --model_name graphsage --dataset reddit --batch_size 8192 --hidden_dims 64 --num_layers 3 --epochs 101 -fanout 15 10 5 --no_checkpoint yes

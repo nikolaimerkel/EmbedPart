@@ -1,0 +1,4 @@
+{"part":1,"epoch_time":22.3399,"sample+data_copy":2.826,"forward":0.2379,"backward":1.6935,"update":0.0312,"num_seeds":54209,"num_inputs":9556470}
+{"part":1,"epoch_time":21.8412,"sample+data_copy":2.7129,"forward":0.036,"backward":1.1718,"update":0.0085,"num_seeds":54209,"num_inputs":9554591}
+{"part":1,"epoch_time":22.1097,"sample+data_copy":2.8355,"forward":0.0365,"backward":1.2179,"update":0.0075,"num_seeds":54209,"num_inputs":9562694}
+{"part":1,"epoch_time":22.3008,"sample+data_copy":2.8992,"forward":0.0354,"backward":1.4804,"update":0.0078,"num_seeds":54209,"num_inputs":9568307}

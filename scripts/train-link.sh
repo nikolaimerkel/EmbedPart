@@ -1,0 +1,8 @@
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 64 --num_layers 2 --epochs 100 -fanout 25 10 --out_size 16
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 64 --num_layers 3 --epochs 100 -fanout 15 10 5 --out_size 16
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 64 --num_layers 2 --epochs 100 -fanout 25 10 --out_size 8
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 64 --num_layers 3 --epochs 100 -fanout 15 10 5 --out_size 8
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 512 --num_layers 2 --epochs 100 -fanout 25 10 --out_size 16
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 512 --num_layers 3 --epochs 100 -fanout 15 10 5 --out_size 16
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 512 --num_layers 2 --epochs 100 -fanout 25 10 --out_size 8
+python -m training.train_link --mode cpu --model_name linkgraphsage --dataset ogbn-papers100M --batch_size 8192 --hidden_dims 512 --num_layers 3 --epochs 100 -fanout 15 10 5 --out_size 8

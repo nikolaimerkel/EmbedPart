@@ -1,0 +1,1 @@
+{"num_parts": 4, "num_edges": 30387995, "num_nodes": 2927963, "local_edges": 7595419, "cut_edges": 22792576, "edge_cut": 0.7500519859898621, "balance": 1.000411548916431, "strategy": "random", "partitioning_time": 0.007958173751831055, "graph": "ogbl-citation2"}

@@ -1,0 +1,10 @@
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 2 -partitioner ldg -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 2 -partitioner spinner -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 4 -partitioner ldg -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 4 -partitioner spinner -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 8 -partitioner ldg -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 8 -partitioner spinner -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 16 -partitioner ldg -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 16 -partitioner spinner -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 32 -partitioner ldg -write_out_vid2pid_file -directed
+/mnt/data/lsh-partitioning/code/HGP/build/gnn -filename /mnt/data/edgelists/ogbl-citation2 -p 32 -partitioner spinner -write_out_vid2pid_file -directed

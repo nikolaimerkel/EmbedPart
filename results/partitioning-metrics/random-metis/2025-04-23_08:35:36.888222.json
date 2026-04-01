@@ -1,0 +1,1 @@
+{"train_balance": 1.0329222083767768, "val_balance": 1.1104951300765455, "test_balance": 1.0315436644945915, "num_parts": 4, "num_edges": 123718280, "num_nodes": 2449029, "local_edges": 115602520, "cut_edges": 8115760, "edge_cut": 0.06559871346417037, "balance": 1.0329220274647626, "strategy": "metis", "partitioning_time": 58.366650342941284, "graph": "ogbn-products"}

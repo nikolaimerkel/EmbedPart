@@ -1,0 +1,8 @@
+# row download of ogb
+dgl_raw = "/mnt/data/.dgl"
+# dgl graphs and sparsified graphs
+dgl_graphs: "/mnt/data/dgl"
+# edgelist which we need for external partitioning
+edgelists: "/mnt/data/edgelists"
+# dgl graphs for distributed and vid2pid files.
+partitioned_graphs: "/mnt/data/partitioned"

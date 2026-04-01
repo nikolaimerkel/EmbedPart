@@ -1,0 +1,1 @@
+{"train_balance": 1.0061330500355208, "val_balance": 1.003063236960262, "test_balance": 1.0027467102310468, "num_parts": 2, "num_edges": 114615892, "num_nodes": 232965, "local_edges": 57317392, "cut_edges": 57298500, "edge_cut": 0.49991758559973515, "balance": 1.005009336166377, "strategy": "random", "partitioning_time": 0.0007371902465820312, "graph": "reddit"}

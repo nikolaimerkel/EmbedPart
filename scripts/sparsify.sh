@@ -1,0 +1,15 @@
+python -m sparsification.sparsify -graph_name ogbn-products -sparsifier rvs -sparsifier_level 0.1
+python -m sparsification.sparsify -graph_name ogbn-products -sparsifier rvs -sparsifier_level 0.3
+python -m sparsification.sparsify -graph_name ogbn-products -sparsifier rvs -sparsifier_level 0.5
+python -m sparsification.sparsify -graph_name ogbn-products -sparsifier rvs -sparsifier_level 0.7
+python -m sparsification.sparsify -graph_name ogbn-products -sparsifier rvs -sparsifier_level 0.9
+python -m sparsification.sparsify -graph_name reddit -sparsifier rvs -sparsifier_level 0.1
+python -m sparsification.sparsify -graph_name reddit -sparsifier rvs -sparsifier_level 0.3
+python -m sparsification.sparsify -graph_name reddit -sparsifier rvs -sparsifier_level 0.5
+python -m sparsification.sparsify -graph_name reddit -sparsifier rvs -sparsifier_level 0.7
+python -m sparsification.sparsify -graph_name reddit -sparsifier rvs -sparsifier_level 0.9
+python -m sparsification.sparsify -graph_name ogbn-papers100M -sparsifier rvs -sparsifier_level 0.1
+python -m sparsification.sparsify -graph_name ogbn-papers100M -sparsifier rvs -sparsifier_level 0.3
+python -m sparsification.sparsify -graph_name ogbn-papers100M -sparsifier rvs -sparsifier_level 0.5
+python -m sparsification.sparsify -graph_name ogbn-papers100M -sparsifier rvs -sparsifier_level 0.7
+python -m sparsification.sparsify -graph_name ogbn-papers100M -sparsifier rvs -sparsifier_level 0.9

@@ -1,0 +1,1 @@
+{"graph_name":"ogbn-papers100M","partitioner":"Dogbn-papers100M.E50.linkgraphsage.H64.L2.O16.F25-10.TB1.05.VB1.1","num_parts":2,"num_hidden":64,"num_layers":3,"batch_size":4096,"model":"SAGE","force_even":false}

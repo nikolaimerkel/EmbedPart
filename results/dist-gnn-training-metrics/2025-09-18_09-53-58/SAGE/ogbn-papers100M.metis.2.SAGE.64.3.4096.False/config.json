@@ -1,0 +1,1 @@
+{"graph_name":"ogbn-papers100M","partitioner":"metis","num_parts":2,"num_hidden":64,"num_layers":3,"batch_size":4096,"model":"SAGE","force_even":false}

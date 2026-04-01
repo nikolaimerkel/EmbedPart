@@ -1,0 +1,1 @@
+{"graph_name":"ogbn-arxiv","partitioner":"spinner","num_parts":4,"num_hidden":64,"num_layers":2,"batch_size":4096,"model":"SAGE","force_even":false}

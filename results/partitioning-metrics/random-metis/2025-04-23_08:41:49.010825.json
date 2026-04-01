@@ -1,0 +1,1 @@
+{"train_balance": 1.029987421055719, "val_balance": 1.0460324787042088, "test_balance": 1.0521515896809868, "num_parts": 16, "num_edges": 114615892, "num_nodes": 232965, "local_edges": 70511938, "cut_edges": 44103954, "edge_cut": 0.38479789521683433, "balance": 1.029922949799326, "strategy": "metis", "partitioning_time": 44.64885902404785, "graph": "reddit"}
